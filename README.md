@@ -1,2 +1,2 @@
-# Cbmods
+bmods
 New CB mod deadline
